@@ -50,4 +50,6 @@ Este projeto demonstra como a **integração eficiente de ferramentas** pode fac
 
 ---
 
+## Fonte de dados Keggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
+
 
