@@ -2,6 +2,7 @@
 
 Este repositório faz parte do meu portfólio em **Business Intelligence e Análise de Dados**, com um projeto de análise aprofundada da performance de vendas da **Super Store** no período de **2014 a 2017**. O foco está na criação de um **dashboard interativo**, utilizando ferramentas da stack Microsoft, com integração automatizada de dados, análise exploratória e extração de insights acionáveis.
 
+Sendo breve vou destacar alguns Insights do ano de 2014.
 ---
 
 ## 📊 O que este trabalho entrega
@@ -27,10 +28,8 @@ Este repositório faz parte do meu portfólio em **Business Intelligence e Anál
 > Este projeto é ideal para quem está a aprender ou deseja aprimorar suas competências em **BI e integração de dados**:
 
 * 🛠️ **SQL Server Integration Services (SSIS)**: para automatização do processo de **ETL** (Extração, Transformação e Carga), integrando ficheiros Excel ao SQL Server;
-
-  * Recursos usados: *Data Flow*, *Derived Columns*, *Lookups*, *OLE DB Source/Destination*;
 * 📃 **SQL Server**: para armazenamento e modelagem das tabelas fato e dimensão;
-* 📊 **Power BI**: visualização de dados com criação de medidas DAX, filtros interativos e segmentações dinâmicas;
+* 📊 **Power BI**: visualização de dados com criação de Colunas e Medidas DAX, filtros interativos e segmentações dinâmicas;
 * 📁 **Power Query (Excel)**: limpeza e transformação de dados antes da carga no banco.
 
 ---
@@ -51,4 +50,4 @@ Este projeto demonstra como a **integração eficiente de ferramentas** pode fac
 
 ---
 
-📍 Mais conteúdos e projetos como este em: [https://gptonline.ai](https://gptonline.ai)
+
